@@ -1,2 +1,2 @@
 # deeplearn_regression
-Deep Learning Regression Project
+Udacity Deep Learning Regression Project
